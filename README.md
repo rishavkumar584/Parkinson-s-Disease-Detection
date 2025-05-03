@@ -70,7 +70,6 @@ Open your browser and go to http://127.0.0.1:5000
 
 # Result
 - Training Accuracy: 87.17%
-- Robust to small datasets
 - Real-time inference on user input
 
   # Technologies Used:
